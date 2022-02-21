@@ -4,4 +4,4 @@ Ejercicios de listas,mapas,funciones,clases y herencias
 - [ ] [Mapas](https://dartpad.dev/7bd2954d112a958807471b62f575a123)
 - [ ] [Funciones basicas] ()
 - [ ] [Clases] ()
-- [ ] [Herencias] ()
+- [ ] [Herencias](https://dartpad.dev/66fbe712ca12dc1e2f08fb74aa7e0ffa)
